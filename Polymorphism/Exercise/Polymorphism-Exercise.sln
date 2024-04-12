@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "Vehicles\Vehicles.csproj", "{9183F53C-A4EE-404E-96E2-AF62BB76E035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{6E3A1C97-AB63-4E76-9BCB-BB8F3151C630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{8362BB3D-DCBD-4923-9A8D-2E2CD95290B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9183F53C-A4EE-404E-96E2-AF62BB76E035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9183F53C-A4EE-404E-96E2-AF62BB76E035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9183F53C-A4EE-404E-96E2-AF62BB76E035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9183F53C-A4EE-404E-96E2-AF62BB76E035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3A1C97-AB63-4E76-9BCB-BB8F3151C630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3A1C97-AB63-4E76-9BCB-BB8F3151C630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3A1C97-AB63-4E76-9BCB-BB8F3151C630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3A1C97-AB63-4E76-9BCB-BB8F3151C630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8362BB3D-DCBD-4923-9A8D-2E2CD95290B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8362BB3D-DCBD-4923-9A8D-2E2CD95290B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8362BB3D-DCBD-4923-9A8D-2E2CD95290B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8362BB3D-DCBD-4923-9A8D-2E2CD95290B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BEBB77C-C110-4CB1-810C-DC80F3D9C476}
+	EndGlobalSection
+EndGlobal
